@@ -26,6 +26,6 @@ Note: The training, testing, and evaluation processes implemented without using 
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to contact me. You can reach me at [your_email@example.com].
+If you have any questions or suggestions regarding this project, please feel free to contact me. You can reach me at [aryafikriansyah@gmail.com].
 
 Thank you for your interest in the Binary Classification using Naive Bayes project. Happy coding!
